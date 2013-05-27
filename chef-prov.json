@@ -1,0 +1,8 @@
+{
+	"run_list": [
+		"recipe[main]"
+	],
+	"tz": "America/Santiago",
+	"host": "33.33.33.100",
+	"user": "vagrant"
+}
